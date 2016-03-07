@@ -1,0 +1,107 @@
+.backHeader{
+	background-color: #16947B;
+	height: 6em;
+}
+.backSection{
+	background-color: #E2D9D9;
+	height: 60em;
+}
+.cuadroFoto{
+	background-color: #ECE3E3;
+	margin-top: 5%;
+	height: 4em;
+	border:1px solid #D5CFCF;
+}
+.imgPerfil{
+	border-radius: 150%;
+	width: 11%;
+	height: 69%;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.buscar{
+	background-color: white;
+	width: 100%;
+	height: 6em;
+	padding: 5%;
+	border-bottom: 1px solid #B8B3B3;
+}
+input[type=search]{
+	appearance:none;
+	-webkit-appearance:none;
+	-moz-appearance:none;
+	-o-appearance: none;
+    width: 100%;
+    border:1px solid #DEDADA;
+    color: #DEDADA;
+    float: left;
+    font-size: 100%;
+    background: url('https://pixabay.com/static/uploads/photo/2014/04/03/00/31/magnifying-glass-308581_960_720.png') no-repeat 170px ;
+    background-size: 5%;
+    background-position:left;
+    background-color: white;
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.perfil1{
+	width: 10%;
+	border-radius: 100%;
+	display: inline-block;
+	position: absolute;
+}
+.conv1{
+	background-color: white;
+	border-bottom: 1px solid #B8B3B3;
+	padding: 2%;
+}
+.texto{
+	display: inline-block;
+	margin-left: 15%;
+}
+.nombre{
+	display: inline-block;
+}
+.hora{
+	margin-top: -6%;
+	margin-left: 64%;
+	position: absolute;
+}
+.hora1{
+	margin-top: -6%;
+	margin-left: 60%;
+	position: absolute;
+}
+.mensaje{
+	color: #CEC9C9;
+}
+.cuadroNombreConv{
+	background-color: #ECE3E3;
+	width: 110%;
+	height: 4em;
+	margin-top: 3.5%;
+	margin-left: -4.7%;
+	border:1px solid #D5CFCF;
+}
+.nomGrup{
+	font-weight: 600;
+}
+.pergru{
+	width: 6%;
+	margin-left: 2%;
+	margin-top: 1%;
+}
+.txt1{
+	margin-left: 10%;
+}
+.fondoChat{
+	width: 100%;
+	height: 56em;
+}
+.mensaje{
+	background-color: white;
+}
+.colorNom{
+	color: #2ED9E4;
+}
