@@ -23,8 +23,8 @@
 .buscar{
 	background-color: white;
 	width: 100%;
-	height: 6em;
-	padding: 5%;
+	height: 5em;
+	padding: 2%;
 	border-bottom: 1px solid #B8B3B3;
 }
 input[type=search]{
@@ -44,17 +44,21 @@ input[type=search]{
     padding-left: 10%;
     padding-top: 2%;
     padding-bottom: 2%;
+    height: 2em;
 }
 .perfil1{
-	width: 10%;
+	width: 7%;
 	border-radius: 100%;
 	display: inline-block;
 	position: absolute;
+	margin-left: 2%;
+	margin-top: 2%;
 }
 .conv1{
 	background-color: white;
 	border-bottom: 1px solid #B8B3B3;
-	padding: 2%;
+	padding: 1%;
+	height: 4.5em;
 }
 .texto{
 	display: inline-block;
@@ -90,18 +94,89 @@ input[type=search]{
 .pergru{
 	width: 6%;
 	margin-left: 2%;
-	margin-top: 1%;
+	margin-top: -1%;
+}
+.integrantes{
+	margin-top: -2%;
 }
 .txt1{
 	margin-left: 10%;
 }
 .fondoChat{
-	width: 100%;
-	height: 56em;
+	/*width: 100%;
+	height: 56em;*/
+	background-image: url(../image/chat-panel-bg.png);
+	background-color: #DBD0D0;
+	margin-top: -1%;
+	width: 100.1%;
 }
-.mensaje{
-	background-color: white;
+.panelGris{
+	margin-left: -5%;
+    margin-top: 3.5%;
 }
-.colorNom{
+.panelTama{
+	height: 4.3em;
+}
+#globo{
+    width: 60%;
+    height: 5%;
+    padding: 2%;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #555;
+    background-color: #EEE;
+    position: relative;
+    margin-top: 1.3%;
+}
+.globo1{
+	margin-top: 0.5%;
+}
+.gloMesa{
 	color: #2ED9E4;
+}
+.gloMesa1{
+	color: #F40597;
+}
+.gloMesa2{
+	color: #25BB8F;
+}
+.gloMesa3{
+	color: #D59A3E;
+}
+.uno{
+	margin-top: 0.5%;
+}
+.hora2{
+	margin-left: 80%;
+	margin-top: -2%;
+	position: absolute;
+}
+.mensaje1{
+	margin-top: -3%;
+	margin-bottom: -2%;
+}
+.globo2{
+	background-color:#B8FBB5 !important;
+	float: right;
+	width: 35% !important; 
+
+}
+.globo3{
+	background-color:#B8FBB5 !important;
+	margin-left: 70%;
+	width: 30% !important; 
+	margin-top: 3.5em !important;
+	height: 2.5em !important;
+}
+.cuadroRespuesta{
+	width: 100%;
+	height: 4em;
+	background-color: #E5E0E0;
+	padding-left: 2%;
+}
+.inputRespuesta{
+	width: 80%;
+	border:none;
+	height: 60%;
+	margin-top: 2%;
+	margin-left: 10%;
 }
