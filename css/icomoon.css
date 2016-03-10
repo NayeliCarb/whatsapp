@@ -24,13 +24,13 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-dots-three-vertical:before {
+.icon-dots-three-vertical:before { /*TRES PUNTOS*/
     content: "\e900";
 }
-.icon-insert_emoticon:before {
+.icon-insert_emoticon:before { /*emoticon*/
     content: "\e904";
 }
-.icon-message:before {
+.icon-message:before { /*mensaje*/
     content: "\e901";
 }
 .icon-camera:before {
@@ -39,7 +39,7 @@
 .icon-mic:before {
     content: "\e902";
 }
-.icon-attachment:before {
+.icon-attachment:before { /*CLIP*/
     content: "\e903";
 }
 
